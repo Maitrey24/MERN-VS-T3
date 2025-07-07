@@ -24,23 +24,6 @@ A modern, glassmorphic landing page that visually compares the **MERN stack** wi
 - **Google Fonts (Outfit)**
 - CSS backdrop-filter effects (Glassmorphism)
 
----
-
-## 📸 Preview
-
-![DevElevate Screenshot](preview.png)
-
-> *(Replace `preview.png` with your actual screenshot)*
-
----
-
-## 🌐 Live Demo
-
-You can view the deployed version here:  
-[🔗 Live Site](https://your-deployment-link.vercel.app)
-
----
-
 ## 🧠 Background
 
 This page was built as part of my journey moving from a traditional **MERN stack project** (featuring real-time Socket.IO chat and DaisyUI themes) to exploring the **T3 Stack** (Next.js + tRPC + Prisma + Tailwind). It represents:
@@ -51,8 +34,4 @@ This page was built as part of my journey moving from a traditional **MERN stack
 
 ---
 
-## 🚀 Run Locally
 
-1. Clone the project:
-   ```bash
-   git clone https://github.com/yourusername/develevate-comparison.git
